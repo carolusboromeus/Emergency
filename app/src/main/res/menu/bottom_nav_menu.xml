@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_white"/>
+
+    <item
+        android:id="@+id/policeStation"
+        android:title="Police Station"
+        android:icon="@drawable/ic_police_white"/>
+    <item
+        android:id="@+id/healthCenter"
+        android:title="Health Center"
+        android:icon="@drawable/ic_hospital_white"/>
+    <item
+        android:id="@+id/fireStation"
+        android:title="Fire Station"
+        android:icon="@drawable/ic_fire_department_white"/>
+</menu>
